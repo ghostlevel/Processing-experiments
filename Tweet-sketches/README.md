@@ -11,12 +11,11 @@ I may have a few/some more to add later.
 
 
 
-a: squarefield
-b: evolving noise
-c: spirals of squares
-d: looks like spirals
-e: shapes
-f: lines lines lines
-g: TV white noise-like
-h: b&w shapes thing
-...
+- a: squarefield
+- b: evolving noise
+- c: spirals of squares
+- d: looks like spirals
+- e: shapes
+- f: lines lines lines
+- g: TV white noise-like
+- h: b&w shapes thing
