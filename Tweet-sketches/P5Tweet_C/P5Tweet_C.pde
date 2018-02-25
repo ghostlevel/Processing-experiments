@@ -1,0 +1,1 @@
+int m,k;void draw(){background(0);for(m=0;m++<80;){k++;k=k%255;stroke(0,k,m);noFill();rect(m*sin(k)+50,m*cos(k)+50,5,5);}}//#P5

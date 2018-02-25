@@ -1,0 +1,1 @@
+float j,m;void draw(){beginShape();for(m=0;m++<50;){fill(0,j=random(150)+m,j,m);vertex(j*sin(m)+50,j*cos(m)+50);}endShape();}//#P5

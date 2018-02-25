@@ -1,0 +1,1 @@
+int j=100,m,k;void draw(){background(0);beginShape();for(m=0;m++<80;){k++;fill(j);vertex(m*sin(k)+50, m*cos(k)+50);}endShape();}//#P5

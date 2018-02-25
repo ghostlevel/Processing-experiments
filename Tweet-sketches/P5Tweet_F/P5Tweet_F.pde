@@ -1,0 +1,1 @@
+int j=100,m,k;void draw(){background(0);for(m=0;m++<80;){k++;k=k%255;fill(j,j);quad(m*sin(k),m*cos(k),k,j,j,j,j,j);}}//#P5 what am i doing
